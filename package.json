@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/solsepulveda/my-first-package/issues"
   },
-  "homepage": "https://github.com/solsepulveda/my-first-package#readme"
+  "homepage": "https://github.com/solsepulveda/my-first-package#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
